@@ -11,5 +11,5 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamutwo&theme=github_dark_dimmed&show_icons=true&hide_border=true" alt="Github stats" height="200px" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamutwo&theme=github_dark_dimmed&show_icons=true&hide_border=true" alt="Github stats" height="150px" align="center">
 </div>
